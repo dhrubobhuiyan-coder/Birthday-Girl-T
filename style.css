@@ -1,4 +1,10 @@
+body{
+    background-color: bisque;
+}
 h1{
-    color: brown;
+    color: rgb(184, 189, 28);
     text-align: center;
+}
+img{
+    width: 20%;
 }
